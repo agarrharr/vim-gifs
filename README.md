@@ -22,6 +22,12 @@ I made some animated gifs from my favorite vim plugins.
 
 ![vim-commentary](vim-commentary.gif)
 
+## vim-gitgutter
+
+`airblade/vim-gitgutter`
+
+![vim-gitgutter](vim-gitgutter.gif)
+
 ## vim-move
 
 `matze/vim-move`
