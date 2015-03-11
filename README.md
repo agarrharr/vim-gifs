@@ -34,6 +34,12 @@ I made some animated gifs from my favorite vim plugins.
 
 ![vim-move](vim-move.gif)
 
+## vim-multiple-cursors
+
+`terryma/vim-multiple-cursors`
+
+![vim-multiple-cursors](vim-multiple-cursors.gif)
+
 # How to create vim animated gifs
 
 Create `essential.vim`, which only contains the bare minimum you need for the gif. In my case this is:
