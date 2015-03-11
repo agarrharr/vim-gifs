@@ -80,7 +80,7 @@ Open vim, record your keystrokes, and then when your done, quit vim and run:
 exit
 ```
 
-Then turn your session into a series of images by running:
+Then turn your session into a series of images by running (`-f` makes sure that it doesn't crop anything):
 
 ```
 ttygif -f myrecording
