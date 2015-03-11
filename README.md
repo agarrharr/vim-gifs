@@ -101,7 +101,7 @@ convert -delay 20 *.png animated.gif
 
 ## Crop the gif
 
-This would look pretty great with the status bar, but it keeps flashing ttygif, so I decided to crop it out.
+This would look pretty great with the status bar, but it keeps flashing `ttyrec` and `screencapture`, so I decided to crop it out.
 
 You can use [ezgif.com](http://ezgif.com/) to crop the gifs online.
 
