@@ -41,3 +41,7 @@ I made some animated gifs from my favorite vim plugins.
 `terryma/vim-multiple-cursors`
 
 ![vim-multiple-cursors](vim-multiple-cursors.gif)
+
+## [vim-surround](https://github.com/tpope/vim-surround)
+
+![vim-surround](vim-surround.gif)
