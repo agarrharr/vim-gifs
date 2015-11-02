@@ -6,23 +6,23 @@ I made some animated gifs from my favorite vim plugins.
 
 # The gifs
 
-## [ctrlp.vim](ctrlpvim/ctrlp.vim)
+## [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim)
 
 ![ctrlp.vim](ctrlp.vim.gif)
 
-## [emmet-vim](mattn/emmet-vim)
+## [emmet-vim](https://github.com/mattn/emmet-vim)
 
 ![emmet-vim](emmet-vim.gif)
 
-## [vim-commentary](tpope/vim-commentary)
+## [vim-commentary](https://github.com/tpope/vim-commentary)
 
 ![vim-commentary](vim-commentary.gif)
 
-## [vim-gitgutter](airblade/vim-gitgutter)
+## [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
 
 ![vim-gitgutter](vim-gitgutter.gif)
 
-## [vim-move](matze/vim-move)
+## [vim-move](https://github.com/matze/vim-move)
 
 ![vim-move](vim-move.gif)
 
