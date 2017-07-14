@@ -8,28 +8,28 @@ I made some animated gifs from my favorite vim plugins.
 
 ## [ctrlp.vim](ctrlpvim/ctrlp.vim)
 
-![ctrlp.vim](ctrlp.vim.gif)
+[![ctrlp.vim](images/ctrlp.vim.gif)](ctrlpvim/ctrlp.vim)
 
 ## [emmet-vim](mattn/emmet-vim)
 
-![emmet-vim](emmet-vim.gif)
+[![emmet-vim](images/emmet-vim.gif)](mattn/emmet-vim)
 
 ## [vim-commentary](tpope/vim-commentary)
 
-![vim-commentary](vim-commentary.gif)
+[![vim-commentary](images/vim-commentary.gif)](tpope/vim-commentary)
 
 ## [vim-gitgutter](airblade/vim-gitgutter)
 
-![vim-gitgutter](vim-gitgutter.gif)
+[![vim-gitgutter](images/vim-gitgutter.gif)](airblade/vim-gitgutter)
 
 ## [vim-move](matze/vim-move)
 
-![vim-move](vim-move.gif)
+[![vim-move](images/vim-move.gif)](matze/vim-move)
 
 ## [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
 
-![vim-multiple-cursors](vim-multiple-cursors.gif)
+[![vim-multiple-cursors](images/vim-multiple-cursors.gif)](https://github.com/terryma/vim-multiple-cursors)
 
 ## [vim-surround](https://github.com/tpope/vim-surround)
 
-![vim-surround](vim-surround.gif)
+[![vim-surround](images/vim-surround.gif)](https://github.com/tpope/vim-surround)
