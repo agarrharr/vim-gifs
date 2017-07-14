@@ -33,3 +33,9 @@ I made some animated gifs from my favorite vim plugins.
 ## [vim-surround](https://github.com/tpope/vim-surround)
 
 [![vim-surround](images/vim-surround.gif)](https://github.com/tpope/vim-surround)
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Adam Harris has waived all copyright and related or neighboring rights to this work.
