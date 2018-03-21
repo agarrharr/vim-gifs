@@ -2,7 +2,7 @@
 
 I made some animated gifs from my favorite vim plugins.
 
-[How to Create Vim Animated Gifs](http://www.adamwadeharris.com/how-to-create-vim-animated-gif/)
+[How to Create Vim Animated Gifs](http://adam.garrett-harris.com/how-to-create-vim-animated-gif/)
 
 # The gifs
 
